@@ -1,5 +1,5 @@
 # Friendly Eats
-
+Maeve Kenny
 
 
 This is the source code that accompanies the Firestore Android Codelab:
